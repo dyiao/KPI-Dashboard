@@ -1,0 +1,6 @@
+.activePageButton{
+    @apply bg-navy-800 text-xl  text-white px-3 rounded-xl;
+}
+.inactivePageButton{
+    @apply bg-gray-300 text-xl  text-white px-3 rounded-xl;
+}

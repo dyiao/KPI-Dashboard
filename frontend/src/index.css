@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components{
+  .flagSelected{
+    @apply rounded-full bg-navy-900 text-white m-1;
+    width:100px; 
+    height:20px;
+    flex-shrink:0;
+  }
+
+  .flagNotSelected{
+    @apply rounded-full bg-gray-600 text-gray-400 m-1;
+    width:100px; 
+    height:20px;
+    flex-shrink:0;
+
+  }
+
+  .btn{
+    background-color:black;
+    width:10%;
+    height:10%;
+    left:20%;
+    position:absolute;
+  }
+
+  .btn-active{
+    background-color:black;
+    width:10%;
+    height:10%;
+    left:20%;
+    position:absolute;
+  }
+  
+
+}

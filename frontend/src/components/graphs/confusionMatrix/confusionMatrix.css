@@ -1,0 +1,24 @@
+.quarter{
+    height:50%;
+    aspect-ratio: 1/1;
+}
+
+.matrix{
+    @apply bg-black h-full flex flex-wrap;
+    height:70%;
+    aspect-ratio: 1/1;
+}
+
+.verticalCol{
+    @apply h-5 text-center;
+  
+}
+
+.outer{
+    @apply flex flex-wrap h-full ml-5;
+
+    }
+.verticalColDiv{
+    @apply flex justify-center flex-col mx-1 w-12  ;
+    height:70%
+}

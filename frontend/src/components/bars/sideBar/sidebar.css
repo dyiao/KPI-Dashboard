@@ -1,0 +1,122 @@
+.sidebar{
+    transition:700ms;
+    height:100vh;
+    left:-20%;
+    /* width:0%; */
+    width:20%;
+    text-align: center;
+    position:absolute;
+    background-color: #02375e;
+    overflow:hidden;
+    z-index: 10;
+   
+}
+.sidebar-active{
+    left:0%;
+    transition:700ms;
+    height:100vh;
+    width:20%;
+    text-align: center;
+    position:absolute;
+    background-color: #02375e;
+    z-index: 10;
+}
+
+.btn-inactive{
+    @apply rounded-r-xl text-center flex justify-center z-10 focus:outline-none;
+    background-color:#02375e;
+    width:5%;
+    height:5%;
+    left:0%;
+    top:0%;;
+    position:absolute;
+    transition:700ms;
+    text-align: center;
+}
+.btn-active{
+    @apply rounded-r-xl text-center flex justify-center z-10 focus:outline-none;
+    background-color:#02375e;
+    width:5%;
+    height:5%;
+    left:20%;
+    top:0%;
+    position:absolute;
+    transition:700ms;
+    text-align: center;
+}
+
+.toggle-active{
+    @apply pt-1;
+    transform:rotate(180deg);
+    font-size: 50px;
+    color:white;
+}
+
+.toggle-inactive{
+    @apply pb-1;
+    font-size: 50px;   
+    color:white; 
+
+}
+.sidebarItem{
+    @apply w-5/6 h-10 bg-navy-800 text-white flex mx-auto my-5 rounded-md;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.sidebarIconText{
+    @apply flex my-auto justify-start w-full;
+}
+
+.sidebarItemIcon{
+    @apply   pb-1 mt-auto mx-5;
+    font-size: 25px;
+}
+
+.sidebarItemText{
+    @apply mt-auto w-36 flex justify-start;
+}
+
+.sidebarItemArrow{
+    @apply m-auto w-20;
+    font-size:25px;
+}
+
+.selectDate{
+    @apply bg-navy-800 w-4/5 mx-auto rounded-md;
+    transition: 300ms;
+}
+.selectDateHidden{
+    @apply scale-0 h-0;
+}
+
+.selectCategory{
+    @apply  w-4/5 mx-auto rounded-sm h-2/3 overflow-auto mt-2;
+    transition: 300ms;
+}
+.selectCategoryHidden{
+    @apply scale-0 h-0;
+}
+.setButton{
+    @apply bg-navy-900 hover:bg-gray-900 text-white font-bold py-2 px-4 rounded mb-3 active:scale-95;
+    transition:100ms;
+}
+.setFlagButton{
+    @apply bg-white hover:bg-gray-400 text-black font-bold py-2 px-4 rounded my-5 active:scale-95;
+    transition:100ms;
+}
+.flagCheckbox{
+    @apply w-1/2 rounded-lg flex justify-start m-auto;
+}
+
+.collapsedCategory{
+    @apply w-full bg-navy-800 text-white rounded-sm flex justify-between font-bold pl-3
+
+}
+.notCollapsedCategory{
+    @apply w-full bg-gray-300 rounded-sm flex justify-between  pl-3
+}
+
+.collapseArrow{
+    @apply my-auto mr-5
+}

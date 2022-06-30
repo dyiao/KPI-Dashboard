@@ -1,0 +1,28 @@
+
+.selectCategory{
+    @apply  w-4/5 mx-auto rounded-sm h-2/3 overflow-auto mt-2;
+    transition: 300ms;
+}
+.selectCategoryHidden{
+    @apply scale-0 h-0;
+}
+
+.setFlagButton{
+    @apply bg-navy-800 hover:bg-gray-400 text-white font-bold py-2 px-4 rounded my-5 active:scale-95 focus:outline-none;
+    transition:100ms;
+}
+.flagCheckbox{
+    @apply w-1/2 rounded-lg flex justify-start m-auto;
+}
+
+.collapsedCategory{
+    @apply w-full bg-navy-800 text-white rounded-sm flex justify-between font-bold pl-3 focus:outline-none
+
+}
+.notCollapsedCategory{
+    @apply w-full bg-gray-300 rounded-sm flex justify-between  pl-3 focus:outline-none
+}
+
+.collapseArrow{
+    @apply my-auto mr-5
+}

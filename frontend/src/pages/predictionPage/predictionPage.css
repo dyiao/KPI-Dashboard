@@ -1,0 +1,134 @@
+.itemRow{
+     flex:1 1;
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+
+    /* flex-wrap: wrap; */
+}
+
+.stats{
+
+}
+
+.item{
+    flex:1 1;
+
+    margin:10px 10px;
+    padding:30px;
+    min-width: 200px;
+    /* max-width:50%; */
+    display:flex;
+    justify-content: start;
+    text-align: center;
+    background-color: white;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 1px 15px 1px rgba(0,0,0,0.6); 
+box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.6);
+}
+
+.itemSlim{
+    flex:0 0 40%;
+    flex-shrink:1;
+    margin:10px 10px;
+    min-width: 200px;
+    /* max-width:50%; */
+    display:flex;
+    justify-content: start;
+    text-align: center;
+    background-color: white;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 1px 15px 1px rgba(0,0,0,0.6); 
+box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.6);
+}
+
+.longItem{
+    flex: 0 0 66%;
+    margin:10px 20px;
+    padding:30px;
+    min-width: 600px;
+    max-width:66%;
+    display:flex;
+    justify-content: start;
+    background-color: white;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 1px 15px 1px rgba(0,0,0,0.9); 
+box-shadow: 0px 1px 15px 1px rgba(0,0,0,0.6);
+}
+
+.plotColumn{
+    margin:10px 10px
+}
+
+.upsetStats{
+    @apply  rounded-md overflow-hidden bg-white;
+    flex: 1 1 80%;
+    height:50%;
+    margin:10px;
+    -webkit-box-shadow: 0px 1px 15px 0.5px rgba(0,0,0,0.9); 
+    box-shadow: 0px 1px 5px 1px rgba(0,0,0,0.6);
+
+    
+}
+
+.columnBlock{
+    flex: 1 1 20%;
+    margin:10px;
+}
+
+.label{
+    display: flex;
+    justify-items: left;
+    margin:10px;
+}
+
+.label p{
+    @apply ml-2 text-2xl font-semibold text-gray-700 uppercase ;
+}
+
+
+.ringPlotItem{
+    flex:0 0 33%;
+    flex-shrink:1;
+    margin:10px 10px;
+
+    min-width: 500px;
+    height:400px;
+    min-height:300px;
+    
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 1px 15px 1px rgba(0,0,0,0.6); 
+box-shadow: 0px 1px 5px 1px rgba(0,0,0,0.6);
+}
+
+.confusionMatrixItem{
+    flex:0 0 33%;
+    flex-shrink:1;
+    margin:10px 10px;
+    min-width: 450px;
+    height:400px;
+    min-height:400px;
+
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 1px 15px 1px rgba(0,0,0,0.6); 
+box-shadow: 0px 1px 5px 1px rgba(0,0,0,0.6);
+
+}
+
+.label p{
+    @apply ml-2 text-xl font-semibold text-black uppercase;
+}
+
+.label{
+    @apply h-auto;
+    width:300px;
+}
+
+

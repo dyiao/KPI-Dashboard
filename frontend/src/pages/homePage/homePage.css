@@ -1,0 +1,102 @@
+.itemRow{
+    width:100%;
+   
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.stats{
+
+}
+
+.item{
+    flex:1;
+    flex-shrink:1;
+    margin:10px 10px;
+    padding:30px;
+    min-width: 200px;
+    /* max-width:50%; */
+    display:flex;
+    justify-content: start;
+    text-align: center;
+    background-color: white;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 1px 15px 1px rgba(0,0,0,0.6); 
+box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.6);
+}
+
+
+.itemClear{
+    flex:1;
+    flex-shrink:1;
+    min-width: 200px;
+    /* max-width:50%; */
+    display:flex;
+    justify-content: start;
+    text-align: center;
+    border-radius: 2px;;
+}
+
+
+.longItem{
+    flex: 0 0 66%;
+    margin:10px 20px;
+    padding:30px;
+    min-width: 600px;
+    max-width:66%;
+    display:flex;
+    justify-content: start;
+    background-color: white;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 1px 15px 1px rgba(0,0,0,0.9); 
+box-shadow: 0px 1px 15px 1px rgba(0,0,0,0.6);
+}
+
+.plotColumn{
+    margin:10px 10px
+}
+
+.upsetStats{
+    @apply  rounded-md overflow-hidden bg-white mx-auto;
+    flex: 1 1 80%;
+    height:50%;
+    min-height: 500px;
+    min-width:1000px;
+
+    -webkit-box-shadow: 0px 1px 15px 0.5px rgba(0,0,0,0.9); 
+    box-shadow: 0px 1px 5px 1px rgba(0,0,0,0.6);
+}
+
+.columnBlock{
+    flex: 1 1 20%;
+    margin:10px;
+}
+
+.label{
+    display: flex;
+    justify-items: left;
+    margin:10px;
+}
+
+.label p{
+    @apply ml-2 text-2xl font-semibold text-gray-700 uppercase ;
+}
+
+
+.activeView{
+    @apply flex-1 rounded-xl bg-navy-800 text-white focus:outline-none focus:border-none active:border-none active:outline-none text-xl;
+    flex: 1 1 66%;
+    transition:0.5s;
+
+}
+
+.inactiveView{
+    @apply bg-gray-300 rounded-xl focus:outline-none active:border-none  focus:border-none active:outline-none text-xl;
+    flex: 1 1 33%;
+    transition:0.5s;
+}
+
+.viewToggle{
+    @apply mx-3 bg-gray-300 h-12 flex justify-around shadow-md rounded-xl;
+}

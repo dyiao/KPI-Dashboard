@@ -1,0 +1,7 @@
+.toggleDate{
+    @apply w-72  text-sm  py-2 px-4 mx-1 rounded h-8 overflow-hidden flex justify-center;
+}
+
+.toggleFlag{
+    @apply text-sm py-2 px-4 mx-2 rounded h-8 flex justify-center w-40 focus:outline-none
+}

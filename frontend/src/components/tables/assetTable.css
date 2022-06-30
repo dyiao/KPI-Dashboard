@@ -1,0 +1,58 @@
+.tableHeader{
+    @apply px-6 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider;
+}
+
+.tableData{
+    @apply px-2 py-4 text-sm text-center border-gray-200 font-light;
+    /* border-y-2 */
+    border-width: 0.5px;
+
+}
+
+/* .table{
+    @apply table-fixed w-full;
+
+} */
+/* .table-container {
+    height: 10em;
+} */
+
+table {
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+    width: 100%;
+    min-height:50%;
+}
+table thead {
+    /* head takes the height it requires, 
+    and it's not scaled when table is resized */
+    display:flex;
+    width: calc(100% - 1em);
+    border-bottom: 2px solid black;
+
+
+}
+
+
+table thead th{
+    width:8.3333%;
+    flex:none;
+    margin:0;
+}
+table tbody {
+    /* body takes all the remaining available space */
+    flex: 1 1 auto;
+    display: block;
+    overflow-y: scroll;
+    height: 25.4em;
+    min-height:25.4em
+}
+table tbody tr {
+    width: 100%;
+}
+
+table thead, table tbody tr {
+    display: table;
+    table-layout: fixed
+}
