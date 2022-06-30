@@ -1,0 +1,4108 @@
+[
+    {
+        "_id": "63ef765a-30c8-4ca4-8299-fc724dbc4f38",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T00:30:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T00:32:04.161Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:10:00Z",
+                "onset": "2022-01-22T00:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.38253610834552254
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642811400,
+                        "prediction_expiration_time": 1642813800
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "fb415484-56f8-48b5-ad6a-6c7d9997e71e",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T00:35:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T00:37:09.764Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:10:00Z",
+                "onset": "2022-01-22T00:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.4419518542409565
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642811700,
+                            "prediction_expiration_time": 1642814100
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642811400,
+                        "prediction_expiration_time": 1642813800
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "668975ce-601c-4948-b949-a6aae269432d",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T00:40:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T00:41:58.352Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:10:00Z",
+                "onset": "2022-01-22T00:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.3955064116772344
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642811700,
+                            "prediction_expiration_time": 1642814100
+                        },
+                        {
+                            "prediction_time": 1642812000,
+                            "prediction_expiration_time": 1642814400
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642811400,
+                        "prediction_expiration_time": 1642813800
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "2e67b0dc-753c-4483-a095-4b1935de54e5",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T00:45:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T00:47:04.696Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:10:00Z",
+                "onset": "2022-01-22T00:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.328649428475955
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642811700,
+                            "prediction_expiration_time": 1642814100
+                        },
+                        {
+                            "prediction_time": 1642812000,
+                            "prediction_expiration_time": 1642814400
+                        },
+                        {
+                            "prediction_time": 1642812300,
+                            "prediction_expiration_time": 1642814700
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642811400,
+                        "prediction_expiration_time": 1642813800
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "5d728dbc-65be-47bd-a876-ec1d6fd59ae2",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T00:50:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T00:51:59.695Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:10:00Z",
+                "onset": "2022-01-22T00:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.2714403682719536
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642811700,
+                            "prediction_expiration_time": 1642814100
+                        },
+                        {
+                            "prediction_time": 1642812000,
+                            "prediction_expiration_time": 1642814400
+                        },
+                        {
+                            "prediction_time": 1642812300,
+                            "prediction_expiration_time": 1642814700
+                        },
+                        {
+                            "prediction_time": 1642812600,
+                            "prediction_expiration_time": 1642815000
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642811400,
+                        "prediction_expiration_time": 1642813800
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "fc82723c-531e-4580-a3ea-3d344c196618",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T00:55:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T00:56:57.587Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:10:00Z",
+                "onset": "2022-01-22T00:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.19576552061879174
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642811700,
+                            "prediction_expiration_time": 1642814100
+                        },
+                        {
+                            "prediction_time": 1642812000,
+                            "prediction_expiration_time": 1642814400
+                        },
+                        {
+                            "prediction_time": 1642812300,
+                            "prediction_expiration_time": 1642814700
+                        },
+                        {
+                            "prediction_time": 1642812600,
+                            "prediction_expiration_time": 1642815000
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642811400,
+                        "prediction_expiration_time": 1642813800
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "0485ee76-b57d-4042-8a8d-c455acceae7f",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:00:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:02:08.141Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:10:00Z",
+                "onset": "2022-01-22T00:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.1685293459197685
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642811700,
+                            "prediction_expiration_time": 1642814100
+                        },
+                        {
+                            "prediction_time": 1642812000,
+                            "prediction_expiration_time": 1642814400
+                        },
+                        {
+                            "prediction_time": 1642812300,
+                            "prediction_expiration_time": 1642814700
+                        },
+                        {
+                            "prediction_time": 1642812600,
+                            "prediction_expiration_time": 1642815000
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642811400,
+                        "prediction_expiration_time": 1642813800
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "2754cc8d-3904-4bd6-ae23-3d1cc6c061cd",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:05:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:07:07.039Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:10:00Z",
+                "onset": "2022-01-22T00:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.22943299812905876
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642811700,
+                            "prediction_expiration_time": 1642814100
+                        },
+                        {
+                            "prediction_time": 1642812000,
+                            "prediction_expiration_time": 1642814400
+                        },
+                        {
+                            "prediction_time": 1642812300,
+                            "prediction_expiration_time": 1642814700
+                        },
+                        {
+                            "prediction_time": 1642812600,
+                            "prediction_expiration_time": 1642815000
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642811400,
+                        "prediction_expiration_time": 1642813800
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "bc2825c1-272c-4bf7-9265-32a58165282b",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:10:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:11:59.768Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:15:00Z",
+                "onset": "2022-01-22T00:35:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.21110734937226475
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642812000,
+                            "prediction_expiration_time": 1642814400
+                        },
+                        {
+                            "prediction_time": 1642812300,
+                            "prediction_expiration_time": 1642814700
+                        },
+                        {
+                            "prediction_time": 1642812600,
+                            "prediction_expiration_time": 1642815000
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642811700,
+                        "prediction_expiration_time": 1642814100
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "366cfebb-d07f-40ef-97bb-a2a4c29f9099",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:15:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:17:02.645Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:20:00Z",
+                "onset": "2022-01-22T00:40:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.27955944556441426
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642812300,
+                            "prediction_expiration_time": 1642814700
+                        },
+                        {
+                            "prediction_time": 1642812600,
+                            "prediction_expiration_time": 1642815000
+                        },
+                        {
+                            "prediction_time": 1642814100,
+                            "prediction_expiration_time": 1642816500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642812000,
+                        "prediction_expiration_time": 1642814400
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "67e7121e-923b-40b6-9a6b-a606d8eec18c",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:20:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:21:56.852Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:25:00Z",
+                "onset": "2022-01-22T00:45:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.23532053102070938
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642812600,
+                            "prediction_expiration_time": 1642815000
+                        },
+                        {
+                            "prediction_time": 1642814100,
+                            "prediction_expiration_time": 1642816500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642812300,
+                        "prediction_expiration_time": 1642814700
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "214e3ea0-1796-4198-980a-fbc642475d44",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:25:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:27:22.498Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:30:00Z",
+                "onset": "2022-01-22T00:50:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.1850870982986635
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642814100,
+                            "prediction_expiration_time": 1642816500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642812600,
+                        "prediction_expiration_time": 1642815000
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "ee88d407-9b28-4196-b67a-3b971ba4afc0",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:30:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:32:09.327Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:55:00Z",
+                "onset": "2022-01-22T01:15:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.19617870719366495
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642814100,
+                        "prediction_expiration_time": 1642816500
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "afedacf8-f104-4345-af72-c1229ec33871",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:35:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:37:09.018Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:55:00Z",
+                "onset": "2022-01-22T01:15:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.1522855787167668
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642814100,
+                        "prediction_expiration_time": 1642816500
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "51fc3820-1357-4ff0-aabe-8d27634c47e3",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:40:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:42:10.514Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:55:00Z",
+                "onset": "2022-01-22T01:15:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.08442343542845368
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642814100,
+                        "prediction_expiration_time": 1642816500
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "946185aa-c035-4c1f-a1de-67d60a52801c",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:45:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:47:01.783Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:55:00Z",
+                "onset": "2022-01-22T01:15:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.07162175243108834
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642814100,
+                        "prediction_expiration_time": 1642816500
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "3e3d96d1-ba68-47e7-a646-81d286b95f8f",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T01:50:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T01:52:04.550Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T01:55:00Z",
+                "onset": "2022-01-22T01:15:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.062705588894148
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642814100,
+                        "prediction_expiration_time": 1642816500
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "4d263f18-2c00-4cdc-99c0-34268fe76d8e",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T08:10:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T08:11:57.519Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T08:50:00Z",
+                "onset": "2022-01-22T08:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.2645769660564633
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642839000,
+                        "prediction_expiration_time": 1642841400
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "b386e39a-41f8-4ace-8f56-05fa7959b4d5",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T08:15:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T08:16:54.847Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T08:50:00Z",
+                "onset": "2022-01-22T08:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.15816557896066896
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642839000,
+                        "prediction_expiration_time": 1642841400
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "8edfb6dd-dea9-4042-b3fa-11f16db37f95",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T08:20:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T08:22:07.334Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T08:50:00Z",
+                "onset": "2022-01-22T08:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.09567257666604262
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642839000,
+                        "prediction_expiration_time": 1642841400
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "1fd28fe8-53d9-47a4-8eb7-66b13b95b64d",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T08:25:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T08:26:59.213Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T08:50:00Z",
+                "onset": "2022-01-22T08:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.05104810288720245
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642839000,
+                        "prediction_expiration_time": 1642841400
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "aa447cde-3d9a-45aa-8502-8090a2378c1b",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T08:30:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T08:31:51.938Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T08:50:00Z",
+                "onset": "2022-01-22T08:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.018433480913296933
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642839000,
+                        "prediction_expiration_time": 1642841400
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "5a8e4053-c980-4902-87e5-b56d030c6e07",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T08:35:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T08:36:54.955Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T08:50:00Z",
+                "onset": "2022-01-22T08:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.006291560102301791
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642839000,
+                        "prediction_expiration_time": 1642841400
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "ec98d7e4-e035-48b3-9c47-0e376afd091b",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T08:40:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T08:41:58.480Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T08:50:00Z",
+                "onset": "2022-01-22T08:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.006219890054972513
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642839000,
+                        "prediction_expiration_time": 1642841400
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "ec572dad-57d4-4b85-b452-7d74b92c9060",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T08:45:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T08:47:00.143Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T08:50:00Z",
+                "onset": "2022-01-22T08:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.0003125
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642839000,
+                        "prediction_expiration_time": 1642841400
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "66155f32-a6a4-4e92-9beb-82ab75360c98",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T17:40:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T17:42:04.464Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:20:00Z",
+                "onset": "2022-01-22T17:40:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.28052330444485074
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642873200,
+                        "prediction_expiration_time": 1642875600
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "b0c2cae0-b75d-46f8-ac05-f4da1fe17847",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T17:45:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T17:47:16.292Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:20:00Z",
+                "onset": "2022-01-22T17:40:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.4441286110933006
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642873500,
+                            "prediction_expiration_time": 1642875900
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642873200,
+                        "prediction_expiration_time": 1642875600
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "0730327d-9aee-4f5e-9b7a-20992098a997",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T17:50:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T17:52:16.330Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:20:00Z",
+                "onset": "2022-01-22T17:40:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.5847075588180912
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642873500,
+                            "prediction_expiration_time": 1642875900
+                        },
+                        {
+                            "prediction_time": 1642873800,
+                            "prediction_expiration_time": 1642876200
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642873200,
+                        "prediction_expiration_time": 1642875600
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "6c8e9fd1-8aaf-4d92-8d8d-5e4768fb6384",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T17:55:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T17:57:00.796Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:20:00Z",
+                "onset": "2022-01-22T17:40:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.6458192536764547
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642873500,
+                            "prediction_expiration_time": 1642875900
+                        },
+                        {
+                            "prediction_time": 1642873800,
+                            "prediction_expiration_time": 1642876200
+                        },
+                        {
+                            "prediction_time": 1642874100,
+                            "prediction_expiration_time": 1642876500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642873200,
+                        "prediction_expiration_time": 1642875600
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "00cd752a-3710-46aa-aae1-3b802577917f",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:00:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:02:16.508Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:20:00Z",
+                "onset": "2022-01-22T17:40:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.7220689365912486
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642873500,
+                            "prediction_expiration_time": 1642875900
+                        },
+                        {
+                            "prediction_time": 1642873800,
+                            "prediction_expiration_time": 1642876200
+                        },
+                        {
+                            "prediction_time": 1642874100,
+                            "prediction_expiration_time": 1642876500
+                        },
+                        {
+                            "prediction_time": 1642874400,
+                            "prediction_expiration_time": 1642876800
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642873200,
+                        "prediction_expiration_time": 1642875600
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "2db37993-a62f-49f1-981a-58e9a3b97afd",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:05:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:07:14.720Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:20:00Z",
+                "onset": "2022-01-22T17:40:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.7268936872449037
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642873500,
+                            "prediction_expiration_time": 1642875900
+                        },
+                        {
+                            "prediction_time": 1642873800,
+                            "prediction_expiration_time": 1642876200
+                        },
+                        {
+                            "prediction_time": 1642874100,
+                            "prediction_expiration_time": 1642876500
+                        },
+                        {
+                            "prediction_time": 1642874400,
+                            "prediction_expiration_time": 1642876800
+                        },
+                        {
+                            "prediction_time": 1642874700,
+                            "prediction_expiration_time": 1642877100
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642873200,
+                        "prediction_expiration_time": 1642875600
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "244cede1-0730-4440-94da-4933e5e63eca",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:10:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:12:09.780Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:20:00Z",
+                "onset": "2022-01-22T17:40:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.716742289013148
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642873500,
+                            "prediction_expiration_time": 1642875900
+                        },
+                        {
+                            "prediction_time": 1642873800,
+                            "prediction_expiration_time": 1642876200
+                        },
+                        {
+                            "prediction_time": 1642874100,
+                            "prediction_expiration_time": 1642876500
+                        },
+                        {
+                            "prediction_time": 1642874400,
+                            "prediction_expiration_time": 1642876800
+                        },
+                        {
+                            "prediction_time": 1642874700,
+                            "prediction_expiration_time": 1642877100
+                        },
+                        {
+                            "prediction_time": 1642875000,
+                            "prediction_expiration_time": 1642877400
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642873200,
+                        "prediction_expiration_time": 1642875600
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "46765063-8831-4c09-8e84-7acf6220d21a",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:15:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:17:09.253Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:20:00Z",
+                "onset": "2022-01-22T17:40:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.5379443457647257
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642873500,
+                            "prediction_expiration_time": 1642875900
+                        },
+                        {
+                            "prediction_time": 1642873800,
+                            "prediction_expiration_time": 1642876200
+                        },
+                        {
+                            "prediction_time": 1642874100,
+                            "prediction_expiration_time": 1642876500
+                        },
+                        {
+                            "prediction_time": 1642874400,
+                            "prediction_expiration_time": 1642876800
+                        },
+                        {
+                            "prediction_time": 1642874700,
+                            "prediction_expiration_time": 1642877100
+                        },
+                        {
+                            "prediction_time": 1642875000,
+                            "prediction_expiration_time": 1642877400
+                        },
+                        {
+                            "prediction_time": 1642875300,
+                            "prediction_expiration_time": 1642877700
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642873200,
+                        "prediction_expiration_time": 1642875600
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "23453f31-21cf-4a57-b3fc-e48ef59c3bbc",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:20:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:21:57.121Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:25:00Z",
+                "onset": "2022-01-22T17:45:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.3437444682212135
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642873800,
+                            "prediction_expiration_time": 1642876200
+                        },
+                        {
+                            "prediction_time": 1642874100,
+                            "prediction_expiration_time": 1642876500
+                        },
+                        {
+                            "prediction_time": 1642874400,
+                            "prediction_expiration_time": 1642876800
+                        },
+                        {
+                            "prediction_time": 1642874700,
+                            "prediction_expiration_time": 1642877100
+                        },
+                        {
+                            "prediction_time": 1642875000,
+                            "prediction_expiration_time": 1642877400
+                        },
+                        {
+                            "prediction_time": 1642875300,
+                            "prediction_expiration_time": 1642877700
+                        },
+                        {
+                            "prediction_time": 1642875600,
+                            "prediction_expiration_time": 1642878000
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642873500,
+                        "prediction_expiration_time": 1642875900
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "8f9b6b85-0a58-4d58-9a6d-1c71e929533c",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:25:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:27:12.060Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:30:00Z",
+                "onset": "2022-01-22T17:50:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.21077049903754524
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642874100,
+                            "prediction_expiration_time": 1642876500
+                        },
+                        {
+                            "prediction_time": 1642874400,
+                            "prediction_expiration_time": 1642876800
+                        },
+                        {
+                            "prediction_time": 1642874700,
+                            "prediction_expiration_time": 1642877100
+                        },
+                        {
+                            "prediction_time": 1642875000,
+                            "prediction_expiration_time": 1642877400
+                        },
+                        {
+                            "prediction_time": 1642875300,
+                            "prediction_expiration_time": 1642877700
+                        },
+                        {
+                            "prediction_time": 1642875600,
+                            "prediction_expiration_time": 1642878000
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642873800,
+                        "prediction_expiration_time": 1642876200
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "b7fb94ac-ed0f-4f38-9ada-f2b80c48c5ce",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:30:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:32:19.601Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:35:00Z",
+                "onset": "2022-01-22T17:55:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.3016609185748342
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642874400,
+                            "prediction_expiration_time": 1642876800
+                        },
+                        {
+                            "prediction_time": 1642874700,
+                            "prediction_expiration_time": 1642877100
+                        },
+                        {
+                            "prediction_time": 1642875000,
+                            "prediction_expiration_time": 1642877400
+                        },
+                        {
+                            "prediction_time": 1642875300,
+                            "prediction_expiration_time": 1642877700
+                        },
+                        {
+                            "prediction_time": 1642875600,
+                            "prediction_expiration_time": 1642878000
+                        },
+                        {
+                            "prediction_time": 1642876200,
+                            "prediction_expiration_time": 1642878600
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642874100,
+                        "prediction_expiration_time": 1642876500
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "b2e5cb33-360a-4c7a-a98c-7f5fc16d5835",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:35:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:37:23.045Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:40:00Z",
+                "onset": "2022-01-22T18:00:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.521100718576114
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642874700,
+                            "prediction_expiration_time": 1642877100
+                        },
+                        {
+                            "prediction_time": 1642875000,
+                            "prediction_expiration_time": 1642877400
+                        },
+                        {
+                            "prediction_time": 1642875300,
+                            "prediction_expiration_time": 1642877700
+                        },
+                        {
+                            "prediction_time": 1642875600,
+                            "prediction_expiration_time": 1642878000
+                        },
+                        {
+                            "prediction_time": 1642876200,
+                            "prediction_expiration_time": 1642878600
+                        },
+                        {
+                            "prediction_time": 1642876500,
+                            "prediction_expiration_time": 1642878900
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642874400,
+                        "prediction_expiration_time": 1642876800
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "6005d31f-8602-4c93-b8c4-aa9cef590ec9",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:40:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:42:04.350Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:45:00Z",
+                "onset": "2022-01-22T18:05:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.633993208737659
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642875000,
+                            "prediction_expiration_time": 1642877400
+                        },
+                        {
+                            "prediction_time": 1642875300,
+                            "prediction_expiration_time": 1642877700
+                        },
+                        {
+                            "prediction_time": 1642875600,
+                            "prediction_expiration_time": 1642878000
+                        },
+                        {
+                            "prediction_time": 1642876200,
+                            "prediction_expiration_time": 1642878600
+                        },
+                        {
+                            "prediction_time": 1642876500,
+                            "prediction_expiration_time": 1642878900
+                        },
+                        {
+                            "prediction_time": 1642876800,
+                            "prediction_expiration_time": 1642879200
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642874700,
+                        "prediction_expiration_time": 1642877100
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "d2f6291c-8bf4-4a02-93a7-fa2ad62bc503",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:45:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:47:07.107Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:50:00Z",
+                "onset": "2022-01-22T18:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.7189448842399482
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642875300,
+                            "prediction_expiration_time": 1642877700
+                        },
+                        {
+                            "prediction_time": 1642875600,
+                            "prediction_expiration_time": 1642878000
+                        },
+                        {
+                            "prediction_time": 1642876200,
+                            "prediction_expiration_time": 1642878600
+                        },
+                        {
+                            "prediction_time": 1642876500,
+                            "prediction_expiration_time": 1642878900
+                        },
+                        {
+                            "prediction_time": 1642876800,
+                            "prediction_expiration_time": 1642879200
+                        },
+                        {
+                            "prediction_time": 1642877100,
+                            "prediction_expiration_time": 1642879500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642875000,
+                        "prediction_expiration_time": 1642877400
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "ed64ddfc-1fda-4d54-a140-6b78523ff886",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:50:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:51:59.665Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T18:55:00Z",
+                "onset": "2022-01-22T18:15:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.6912451025915675
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642875600,
+                            "prediction_expiration_time": 1642878000
+                        },
+                        {
+                            "prediction_time": 1642876200,
+                            "prediction_expiration_time": 1642878600
+                        },
+                        {
+                            "prediction_time": 1642876500,
+                            "prediction_expiration_time": 1642878900
+                        },
+                        {
+                            "prediction_time": 1642876800,
+                            "prediction_expiration_time": 1642879200
+                        },
+                        {
+                            "prediction_time": 1642877100,
+                            "prediction_expiration_time": 1642879500
+                        },
+                        {
+                            "prediction_time": 1642877400,
+                            "prediction_expiration_time": 1642879800
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642875300,
+                        "prediction_expiration_time": 1642877700
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "00671616-a4e5-4ff0-88db-01b3f5aed1fa",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T18:55:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T18:57:08.891Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:00:00Z",
+                "onset": "2022-01-22T18:20:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.8010638598870864
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642876200,
+                            "prediction_expiration_time": 1642878600
+                        },
+                        {
+                            "prediction_time": 1642876500,
+                            "prediction_expiration_time": 1642878900
+                        },
+                        {
+                            "prediction_time": 1642876800,
+                            "prediction_expiration_time": 1642879200
+                        },
+                        {
+                            "prediction_time": 1642877100,
+                            "prediction_expiration_time": 1642879500
+                        },
+                        {
+                            "prediction_time": 1642877400,
+                            "prediction_expiration_time": 1642879800
+                        },
+                        {
+                            "prediction_time": 1642877700,
+                            "prediction_expiration_time": 1642880100
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642875600,
+                        "prediction_expiration_time": 1642878000
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "218ab0a8-dee6-4ff9-959e-7c913f2bc14c",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:00:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:01:55.170Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:10:00Z",
+                "onset": "2022-01-22T18:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.9108080914888923
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642876500,
+                            "prediction_expiration_time": 1642878900
+                        },
+                        {
+                            "prediction_time": 1642876800,
+                            "prediction_expiration_time": 1642879200
+                        },
+                        {
+                            "prediction_time": 1642877100,
+                            "prediction_expiration_time": 1642879500
+                        },
+                        {
+                            "prediction_time": 1642877400,
+                            "prediction_expiration_time": 1642879800
+                        },
+                        {
+                            "prediction_time": 1642877700,
+                            "prediction_expiration_time": 1642880100
+                        },
+                        {
+                            "prediction_time": 1642878000,
+                            "prediction_expiration_time": 1642880400
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642876200,
+                        "prediction_expiration_time": 1642878600
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "a57636bd-9d33-4523-890d-05d659303add",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:05:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:07:12.005Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:10:00Z",
+                "onset": "2022-01-22T18:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.8459236579550204
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642876500,
+                            "prediction_expiration_time": 1642878900
+                        },
+                        {
+                            "prediction_time": 1642876800,
+                            "prediction_expiration_time": 1642879200
+                        },
+                        {
+                            "prediction_time": 1642877100,
+                            "prediction_expiration_time": 1642879500
+                        },
+                        {
+                            "prediction_time": 1642877400,
+                            "prediction_expiration_time": 1642879800
+                        },
+                        {
+                            "prediction_time": 1642877700,
+                            "prediction_expiration_time": 1642880100
+                        },
+                        {
+                            "prediction_time": 1642878000,
+                            "prediction_expiration_time": 1642880400
+                        },
+                        {
+                            "prediction_time": 1642878300,
+                            "prediction_expiration_time": 1642880700
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642876200,
+                        "prediction_expiration_time": 1642878600
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "fde7fd3e-6c57-40d0-827f-570f7a7c6628",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:10:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:12:10.419Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:15:00Z",
+                "onset": "2022-01-22T18:35:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.6679708391614589
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642876800,
+                            "prediction_expiration_time": 1642879200
+                        },
+                        {
+                            "prediction_time": 1642877100,
+                            "prediction_expiration_time": 1642879500
+                        },
+                        {
+                            "prediction_time": 1642877400,
+                            "prediction_expiration_time": 1642879800
+                        },
+                        {
+                            "prediction_time": 1642877700,
+                            "prediction_expiration_time": 1642880100
+                        },
+                        {
+                            "prediction_time": 1642878000,
+                            "prediction_expiration_time": 1642880400
+                        },
+                        {
+                            "prediction_time": 1642878300,
+                            "prediction_expiration_time": 1642880700
+                        },
+                        {
+                            "prediction_time": 1642878600,
+                            "prediction_expiration_time": 1642881000
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642876500,
+                        "prediction_expiration_time": 1642878900
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "ef9fb471-9cb1-43bf-a7c6-6877e4a27cda",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:15:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:17:19.472Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:20:00Z",
+                "onset": "2022-01-22T18:40:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.47880700854597497
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642877100,
+                            "prediction_expiration_time": 1642879500
+                        },
+                        {
+                            "prediction_time": 1642877400,
+                            "prediction_expiration_time": 1642879800
+                        },
+                        {
+                            "prediction_time": 1642877700,
+                            "prediction_expiration_time": 1642880100
+                        },
+                        {
+                            "prediction_time": 1642878000,
+                            "prediction_expiration_time": 1642880400
+                        },
+                        {
+                            "prediction_time": 1642878300,
+                            "prediction_expiration_time": 1642880700
+                        },
+                        {
+                            "prediction_time": 1642878600,
+                            "prediction_expiration_time": 1642881000
+                        },
+                        {
+                            "prediction_time": 1642878900,
+                            "prediction_expiration_time": 1642881300
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642876800,
+                        "prediction_expiration_time": 1642879200
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "c2491fd4-2989-49f0-9de9-8725e3156af5",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:20:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:22:08.734Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:25:00Z",
+                "onset": "2022-01-22T18:45:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.5597803010772967
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642877400,
+                            "prediction_expiration_time": 1642879800
+                        },
+                        {
+                            "prediction_time": 1642877700,
+                            "prediction_expiration_time": 1642880100
+                        },
+                        {
+                            "prediction_time": 1642878000,
+                            "prediction_expiration_time": 1642880400
+                        },
+                        {
+                            "prediction_time": 1642878300,
+                            "prediction_expiration_time": 1642880700
+                        },
+                        {
+                            "prediction_time": 1642878600,
+                            "prediction_expiration_time": 1642881000
+                        },
+                        {
+                            "prediction_time": 1642878900,
+                            "prediction_expiration_time": 1642881300
+                        },
+                        {
+                            "prediction_time": 1642879200,
+                            "prediction_expiration_time": 1642881600
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642877100,
+                        "prediction_expiration_time": 1642879500
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "bd11cda2-4e14-41cc-836e-f9320eebbddf",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:25:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:27:07.363Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:30:00Z",
+                "onset": "2022-01-22T18:50:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.7304846601432226
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642877700,
+                            "prediction_expiration_time": 1642880100
+                        },
+                        {
+                            "prediction_time": 1642878000,
+                            "prediction_expiration_time": 1642880400
+                        },
+                        {
+                            "prediction_time": 1642878300,
+                            "prediction_expiration_time": 1642880700
+                        },
+                        {
+                            "prediction_time": 1642878600,
+                            "prediction_expiration_time": 1642881000
+                        },
+                        {
+                            "prediction_time": 1642878900,
+                            "prediction_expiration_time": 1642881300
+                        },
+                        {
+                            "prediction_time": 1642879200,
+                            "prediction_expiration_time": 1642881600
+                        },
+                        {
+                            "prediction_time": 1642879500,
+                            "prediction_expiration_time": 1642881900
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642877400,
+                        "prediction_expiration_time": 1642879800
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "7e3f9662-a2ec-4231-99a1-4c996b564ff3",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:30:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:32:08.814Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:35:00Z",
+                "onset": "2022-01-22T18:55:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.5206695415470692
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642878000,
+                            "prediction_expiration_time": 1642880400
+                        },
+                        {
+                            "prediction_time": 1642878300,
+                            "prediction_expiration_time": 1642880700
+                        },
+                        {
+                            "prediction_time": 1642878600,
+                            "prediction_expiration_time": 1642881000
+                        },
+                        {
+                            "prediction_time": 1642878900,
+                            "prediction_expiration_time": 1642881300
+                        },
+                        {
+                            "prediction_time": 1642879200,
+                            "prediction_expiration_time": 1642881600
+                        },
+                        {
+                            "prediction_time": 1642879500,
+                            "prediction_expiration_time": 1642881900
+                        },
+                        {
+                            "prediction_time": 1642879800,
+                            "prediction_expiration_time": 1642882200
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642877700,
+                        "prediction_expiration_time": 1642880100
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "1ac94115-75a7-442b-b10d-38a853b121ee",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:35:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:37:09.495Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:40:00Z",
+                "onset": "2022-01-22T19:00:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.3900415312491123
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642878300,
+                            "prediction_expiration_time": 1642880700
+                        },
+                        {
+                            "prediction_time": 1642878600,
+                            "prediction_expiration_time": 1642881000
+                        },
+                        {
+                            "prediction_time": 1642878900,
+                            "prediction_expiration_time": 1642881300
+                        },
+                        {
+                            "prediction_time": 1642879200,
+                            "prediction_expiration_time": 1642881600
+                        },
+                        {
+                            "prediction_time": 1642879500,
+                            "prediction_expiration_time": 1642881900
+                        },
+                        {
+                            "prediction_time": 1642879800,
+                            "prediction_expiration_time": 1642882200
+                        },
+                        {
+                            "prediction_time": 1642880100,
+                            "prediction_expiration_time": 1642882500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642878000,
+                        "prediction_expiration_time": 1642880400
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "d51386e9-83b2-4bdb-9b98-59a763427c14",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:40:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:42:16.167Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:45:00Z",
+                "onset": "2022-01-22T19:05:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.2140466154008574
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642878600,
+                            "prediction_expiration_time": 1642881000
+                        },
+                        {
+                            "prediction_time": 1642878900,
+                            "prediction_expiration_time": 1642881300
+                        },
+                        {
+                            "prediction_time": 1642879200,
+                            "prediction_expiration_time": 1642881600
+                        },
+                        {
+                            "prediction_time": 1642879500,
+                            "prediction_expiration_time": 1642881900
+                        },
+                        {
+                            "prediction_time": 1642879800,
+                            "prediction_expiration_time": 1642882200
+                        },
+                        {
+                            "prediction_time": 1642880100,
+                            "prediction_expiration_time": 1642882500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642878300,
+                        "prediction_expiration_time": 1642880700
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "c5953713-048c-49f3-a635-77ee0247226f",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:45:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:47:12.666Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:50:00Z",
+                "onset": "2022-01-22T19:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.16045039169997843
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642878900,
+                            "prediction_expiration_time": 1642881300
+                        },
+                        {
+                            "prediction_time": 1642879200,
+                            "prediction_expiration_time": 1642881600
+                        },
+                        {
+                            "prediction_time": 1642879500,
+                            "prediction_expiration_time": 1642881900
+                        },
+                        {
+                            "prediction_time": 1642879800,
+                            "prediction_expiration_time": 1642882200
+                        },
+                        {
+                            "prediction_time": 1642880100,
+                            "prediction_expiration_time": 1642882500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642878600,
+                        "prediction_expiration_time": 1642881000
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "bad8b2c6-3102-4c50-ab10-7babfcde47db",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:50:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:52:12.075Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T19:55:00Z",
+                "onset": "2022-01-22T19:15:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.07584237195957803
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642879200,
+                            "prediction_expiration_time": 1642881600
+                        },
+                        {
+                            "prediction_time": 1642879500,
+                            "prediction_expiration_time": 1642881900
+                        },
+                        {
+                            "prediction_time": 1642879800,
+                            "prediction_expiration_time": 1642882200
+                        },
+                        {
+                            "prediction_time": 1642880100,
+                            "prediction_expiration_time": 1642882500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642878900,
+                        "prediction_expiration_time": 1642881300
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "4a3db1f6-17d8-4f0c-a4d2-1276dea12984",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T19:55:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T19:57:04.927Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T20:00:00Z",
+                "onset": "2022-01-22T19:20:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.062283552354088154
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642879500,
+                            "prediction_expiration_time": 1642881900
+                        },
+                        {
+                            "prediction_time": 1642879800,
+                            "prediction_expiration_time": 1642882200
+                        },
+                        {
+                            "prediction_time": 1642880100,
+                            "prediction_expiration_time": 1642882500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642879200,
+                        "prediction_expiration_time": 1642881600
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "74eee307-ce4c-443d-8c33-e290864536f3",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T20:00:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T20:02:13.750Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T20:05:00Z",
+                "onset": "2022-01-22T19:25:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.017176940227129813
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642879800,
+                            "prediction_expiration_time": 1642882200
+                        },
+                        {
+                            "prediction_time": 1642880100,
+                            "prediction_expiration_time": 1642882500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642879500,
+                        "prediction_expiration_time": 1642881900
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "93227870-4c4a-4660-94cb-57776bed65e7",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T20:05:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T20:06:53.839Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T20:10:00Z",
+                "onset": "2022-01-22T19:30:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.013263815339902296
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642880100,
+                            "prediction_expiration_time": 1642882500
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642879800,
+                        "prediction_expiration_time": 1642882200
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "a0d2edf0-7d7d-4a10-82fa-42f889227b32",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T20:10:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T20:11:53.256Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T20:15:00Z",
+                "onset": "2022-01-22T19:35:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.011864801987084596
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642880100,
+                        "prediction_expiration_time": 1642882500
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "a01ee627-46da-4170-a3dc-fa004a0ac2f7",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T22:10:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T22:11:52.349Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T22:50:00Z",
+                "onset": "2022-01-22T22:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.29359278527147825
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642889400,
+                        "prediction_expiration_time": 1642891800
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "c952b4ec-3aa5-4f09-8d3d-cb3572a85d04",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T22:15:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T22:16:51.525Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T22:50:00Z",
+                "onset": "2022-01-22T22:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.1678264978167627
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642889400,
+                        "prediction_expiration_time": 1642891800
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "e79cb6e7-bd8e-454f-a41d-3f0101409671",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T22:20:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T22:21:57.149Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T22:50:00Z",
+                "onset": "2022-01-22T22:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            1,
+                            0.3845778917169898
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642890000,
+                            "prediction_expiration_time": 1642892400
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642889400,
+                        "prediction_expiration_time": 1642891800
+                    }
+                },
+                "error": "",
+                "score": 1,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "a25f9373-574b-4282-9ac2-54d34a6618d8",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T22:25:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T22:26:49.055Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T22:50:00Z",
+                "onset": "2022-01-22T22:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.20660109618597308
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642890000,
+                            "prediction_expiration_time": 1642892400
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642889400,
+                        "prediction_expiration_time": 1642891800
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "d0dbea11-df11-4e4f-8590-70fbfe2ad819",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T22:30:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T22:31:46.702Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T22:50:00Z",
+                "onset": "2022-01-22T22:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.12355125953417342
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642890000,
+                            "prediction_expiration_time": 1642892400
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642889400,
+                        "prediction_expiration_time": 1642891800
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "edff22fa-6aba-4d71-878c-1d2493a2fecd",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T22:35:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T22:36:55.049Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T22:50:00Z",
+                "onset": "2022-01-22T22:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.044389802768534006
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642890000,
+                            "prediction_expiration_time": 1642892400
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642889400,
+                        "prediction_expiration_time": 1642891800
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "e50c00c2-b83f-48b4-9514-994ff3a7c69a",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T22:40:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T22:41:44.406Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T22:50:00Z",
+                "onset": "2022-01-22T22:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.03631650423763689
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642890000,
+                            "prediction_expiration_time": 1642892400
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642889400,
+                        "prediction_expiration_time": 1642891800
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "342a9107-0412-4c69-9850-114a0c18c382",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T22:45:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T22:47:03.247Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T22:50:00Z",
+                "onset": "2022-01-22T22:10:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.016296050462256993
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [
+                        {
+                            "prediction_time": 1642890000,
+                            "prediction_expiration_time": 1642892400
+                        }
+                    ],
+                    "current_prediction": {
+                        "prediction_time": 1642889400,
+                        "prediction_expiration_time": 1642891800
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "0a8ab3d2-2313-46fe-9ec3-54263e36109f",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T22:50:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T22:51:49.138Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T23:00:00Z",
+                "onset": "2022-01-22T22:20:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.006614175136457745
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642890000,
+                        "prediction_expiration_time": 1642892400
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    },
+    {
+        "_id": "878e8d06-8dd4-48c6-bb37-66ebc52fadf5",
+        "categories": [
+            "category 0"
+        ],
+        "createdAt": "2022-01-22T22:55:00Z",
+        "docCreatedDate": {
+            "$date": "2022-01-22T22:56:57.165Z"
+        },
+        "flags": [
+            {
+                "flag": "flag 0",
+                "status": "WARNING",
+                "label": "label 0",
+                "threshold": "threshold 0",
+                "expires": "2022-01-22T23:00:00Z",
+                "onset": "2022-01-22T22:20:00Z",
+                "inputToFP": "",
+                "prediction": {
+                    "values": [
+                        [
+                            0,
+                            0.0073820275738754
+                        ]
+                    ],
+                    "fields": [
+                        "prediction",
+                        "probability"
+                    ]
+                },
+                "warningsHistory": {
+                    "prediction_life": 2400,
+                    "onset_criterion": 0.0,
+                    "offset_criterion": 0.0,
+                    "consecutive_upset_predictions": 0,
+                    "consecutive_normal_predictions": 0,
+                    "warnings_queue": [],
+                    "current_prediction": {
+                        "prediction_time": 1642890000,
+                        "prediction_expiration_time": 1642892400
+                    }
+                },
+                "error": "",
+                "score": 0,
+                "outputFromFP": ""
+            }
+        ],
+        "overall_flag": 1,
+        "status": "WARNING"
+    }
+]
